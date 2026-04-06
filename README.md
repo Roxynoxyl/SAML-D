@@ -4,7 +4,7 @@
 
 A real-time web-based dashboard for monitoring financial transactions, detecting suspicious activity patterns, managing compliance alerts, and generating regulatory reports — built for AML compliance teams.
 
-![Dashboard Preview](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-purple)
+![Dashboard Preview](https://img.shields.io/badge/Status-Active-brightgreen) 
 
 ---
 
@@ -23,7 +23,6 @@ A real-time web-based dashboard for monitoring financial transactions, detecting
 - [Regulatory Context](#regulatory-context)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -330,12 +329,6 @@ This system is designed with the following regulatory frameworks in mind:
 3. Commit changes (`git commit -m 'Add new detection rule'`)
 4. Push to branch (`git push origin feature/new-rule`)
 5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
